@@ -1,3 +1,2 @@
 A text file.
-
 New line added. Good.
